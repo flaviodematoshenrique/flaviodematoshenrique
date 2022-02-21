@@ -3,9 +3,8 @@
 
 <h3 align= "left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/flaviomatoshenrique/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in- alt.svg" alt="https://www.linkedin.com/in/flaviomatoshenrique/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/fla_henrique/" target="blank"><img align="center" src="https://raw.githubusercontent. com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/fla_henrique/" height="30" width=" 40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/flviomatosh" target="blank"><img align="center" src= "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/flviomatosh" height="30" largura="40" /></a>
+<a href="https://linkedin.com/in/flaviomatoshenrique/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in- alt.svg" alt="https://www.linkedin.com/in/flaviomatoshenrique/" height="30" width="40" /></a>
+<a href="https://www.behance.net/flviomatosh" target="blank"><img align="center" src= "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/flviomatosh" height="30" largura="40" /></a>
 </p>
 
 <h3 align="left">Idiomas e ferramentas:</h3>
