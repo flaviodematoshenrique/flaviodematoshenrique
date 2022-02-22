@@ -13,3 +13,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=flaviodematoshenrique&show_icons=true&locale=en&layout=compact" alt="flaviodematoshenrique" /> </p>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=flaviodematoshenrique&show_icons=true&locale=en" alt="flaviodematoshenrique" /> </p>
+
+  ![Snake animation](https://github.com/flaviodematoshenrique/flaviodematoshenrique/blob/output/github-contribution-grid-snake.svg)
