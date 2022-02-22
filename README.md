@@ -5,7 +5,7 @@
 <p align="left">
 <img 
 img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-<a href="https://www.behance.net/flviomatosh" target="blank">alt="https://www.linkedin.com/in/flaviomatoshenrique/" height="30" width="40" style="max-width: 100%;">    
+alt="https://www.linkedin.com/in/flaviomatoshenrique/" height="30" width="40" style="max-width: 100%;">    
 <a href="https://www.behance.net/flviomatosh" target="blank"><img align="center" src= "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/flviomatosh" height="30" largura="40" /></a>
 </p>
 
